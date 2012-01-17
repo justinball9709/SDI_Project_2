@@ -38,3 +38,7 @@ else (sellalot === false)
 	}else{
 	console.log("I have to put hard work in but I'm determined." );
 };
+
+var string = function (cases) {
+	console.log(cases + "Hoper we have a good amount of cases " + group + "amount");
+};
