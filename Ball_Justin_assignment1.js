@@ -42,3 +42,12 @@ else (sellalot === false)
 var string = function (cases) {
 	console.log(cases + "Hoper we have a good amount of cases " + group + "amount");
 };
+
+var square = 2,
+var angle = 4;
+
+var shape = function (name, phone) {
+
+	var size = square + angle;
+	console.log(name + "this is" + phone);
+}
