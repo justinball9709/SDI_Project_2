@@ -53,3 +53,6 @@ var shape = function (name, phone) {
 }
 
 var stores = [ "waters", "citrus", "mabry"];
+
+var managers = [ "Mike", "Brown", "William"];
+
