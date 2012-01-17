@@ -51,3 +51,5 @@ var shape = function (name, phone) {
 	var size = square + angle;
 	console.log(name + "this is" + phone);
 }
+
+var stores = [ "waters", "citrus", "mabry"];
